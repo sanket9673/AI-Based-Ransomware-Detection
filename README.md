@@ -12,7 +12,7 @@ To build an AI-powered solution that accurately detects ransomware based on fore
 
 ## 📁 Dataset
 
-**Dataset Name:** [Windows Malware Detection using Volatility Memory Forensics Features](https://www.kaggle.com/datasets/azizmohamed/windows-malware-detection-using-volatility-features)
+**Dataset Name:** balanced.csv(attached above)
 
 - **Total Records:** 531
 - **Features:** 529 memory forensics-based features
